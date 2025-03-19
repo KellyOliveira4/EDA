@@ -10,10 +10,15 @@ This dataset captures the dynamics of viral social media trends across TikTok, I
 📂 File Details
 
 Filename: Viral_Social_Media_Trends.csv
+
 Records: 5,000 viral social media posts
+
 Platforms: TikTok, Instagram, Twitter, YouTube 📱
+
 Metrics: Views 👀, Likes ❤️, Shares 🔄, Comments 💬
+
 Includes: Trending hashtags & content types 🎯
+
 📌 Original Data Source: Kaggle Dataset
 
 ✨ By leveraging this dataset, analysts can gain a deeper understanding of social media engagement patterns, audience behavior, and platform-specific performance. This makes it a valuable resource for data science research, marketing strategies, and content optimization in the ever-changing digital world. 🚀
